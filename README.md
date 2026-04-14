@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Logo](/logo.png)
+![Logo](logo.png)
 
 **ERP complet pour PME — Ventes · Achats · Stock · Trésorerie · Caisse**
 
@@ -41,14 +41,14 @@ Rôle     : Admin (accès complet)
 
 ## Vidéo démo
 
-[![Voltix ERP Demo](https://vimeo.com/voltix-demo-thumbnail)]([https://vimeo.com/voltix-demo](https://vimeo.com/1182298483?fl=tl&fe=ec))
+[![Voltix ERP Demo]([https://vimeo.com/voltix-demo-thumbnail](https://vimeo.com/1182298483?fl=tl&fe=ec))]([https://vimeo.com/voltix-demo](https://vimeo.com/1182298483?fl=tl&fe=ec))
 
 > Démonstration complète — tous les modules, tous les rôles, scénarios réels.
 
 
 ## Screenshots
 
-> *Screenshots à venir — voir la [vidéo démo](https://vimeo.com/voltix-demo)*
+> *Screenshots à venir — voir la [vidéo démo]([https://vimeo.com/voltix-demo](https://vimeo.com/1182298483?fl=tl&fe=ec))*
 
 
 ## Modules
