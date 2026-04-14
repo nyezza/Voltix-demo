@@ -1,5 +1,7 @@
 # Voltix ERP — by Yezza Tech
 
+![Logo](/logo.png)
+
 <div align="center">
 
 **ERP complet pour PME — Ventes · Achats · Stock · Trésorerie · Caisse**
