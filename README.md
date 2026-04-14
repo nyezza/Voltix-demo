@@ -117,7 +117,7 @@ Le code source n'est pas distribué publiquement.
 
 Pour toute demande :
 - 📧 [nadhir.y@yezzatech.tn](mailto:nadhir.y@yezzatech.tn)
-- 🌐 [yezzatech.tn](https://yezzatech.tn)
+- 🌐 [yezzatech.tn](https://www.yezzatech.tn)
 - 💼 [linkedin.com/in/nyezza](https://linkedin.com/in/nyezza)
 
 
