@@ -19,7 +19,6 @@
 
 </div>
 
----
 
 ## Demo live
 
@@ -44,13 +43,11 @@ Rôle     : Admin (accès complet)
 
 > Démonstration complète — tous les modules, tous les rôles, scénarios réels.
 
----
 
 ## Screenshots
 
 > *Screenshots à venir — voir la [vidéo démo](https://vimeo.com/voltix-demo)*
 
----
 
 ## Modules
 
@@ -65,7 +62,6 @@ Rôle     : Admin (accès complet)
 | **Approvisionnement** | Demandes internes · Validation · Livraison |
 | **Administration** | RBAC granulaire · Utilisateurs · Paramètres société |
 
----
 
 ## Architecture
 
@@ -86,7 +82,6 @@ MySQL 8.0 (InnoDB)
 - Déploiement multi-client automatisé (1 instance Docker par client)
 - Audit trail complet sur toutes les opérations
 
----
 
 ## Déploiement
 
@@ -103,7 +98,6 @@ Voltix est déployé via Docker avec isolation complète par client :
 # → https://voltix-nom_client.yezzatech.tn
 ```
 
----
 
 ## Sécurité
 
@@ -113,7 +107,6 @@ Voltix est déployé via Docker avec isolation complète par client :
 - CORS restreint aux origines autorisées
 - Audit trail complet
 
----
 
 ## Licence & Contact
 
@@ -125,7 +118,6 @@ Pour toute demande :
 - 🌐 [yezzatech.tn](https://yezzatech.tn)
 - 💼 [linkedin.com/in/nyezza](https://linkedin.com/in/nyezza)
 
----
 
 ## Autres projets Yezza Tech
 
@@ -134,7 +126,6 @@ Pour toute demande :
 | **Medix** | SaaS de gestion de cabinet médical | [github.com/nyezza/medix](https://github.com/nyezza/medix) |
 | **Tradix** | Application desktop pour courtiers en poisson | [github.com/nyezza/tradix](https://github.com/nyezza/tradix) |
 
----
 
 <div align="center">
 
