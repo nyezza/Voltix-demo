@@ -41,7 +41,7 @@ Rôle     : Admin (accès complet)
 
 ## Vidéo démo
 
-[![Voltix ERP Demo]([https://vimeo.com/voltix-demo-thumbnail](https://vimeo.com/1182298483?share=copy&fl=sv&fe=ci))]([https://vimeo.com/voltix-demo](https://vimeo.com/1182298483?share=copy&fl=sv&fe=ci))
+[Voltix ERP Demo]([https://vimeo.com/voltix-demo-thumbnail](https://vimeo.com/1182298483?share=copy&fl=sv&fe=ci)
 
 > Démonstration complète — tous les modules, tous les rôles, scénarios réels.
 
