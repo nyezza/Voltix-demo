@@ -12,20 +12,20 @@
 [![Version](https://img.shields.io/badge/version-1.2.0-green)]()
 [![License](https://img.shields.io/badge/licence-Propriétaire-red)](LICENSE)
 
-[🌐 Demo live](https://voltix-demo.yezzatech.tn) · [📹 Vidéo démo](https://vimeo.com/voltix-demo) · [🌍 yezzatech.tn](https://yezzatech.tn)
+[Demo live](https://voltix-demo.yezzatech.tn) · [Vidéo démo](https://vimeo.com/voltix-demo) · [yezzatech.tn](https://www.yezzatech.tn)
 
-> ⚠️ **Dépôt vitrine** — Le code source est propriétaire et non distribué.
+> **Dépôt vitrine** — Le code source est propriétaire et non distribué.
 > Pour toute demande de licence ou collaboration : [nadhir.y@yezzatech.tn](mailto:nadhir.y@yezzatech.tn)
 
 </div>
 
 ---
 
-## 🎯 Demo live
+## Demo live
 
 | URL | Accès |
 |-----|-------|
-| 🌐 [voltix-demo.yezzatech.tn](https://voltix-demo.yezzatech.tn) | Application complète |
+| [voltix-demo.yezzatech.tn](https://voltix-demo.yezzatech.tn) | Application complète |
 
 **Compte de démonstration :**
 ```
@@ -38,7 +38,7 @@ Rôle     : Admin (accès complet)
 
 ---
 
-## 📹 Vidéo démo
+## Vidéo démo
 
 [![Voltix ERP Demo](https://vimeo.com/voltix-demo-thumbnail)](https://vimeo.com/voltix-demo)
 
@@ -46,13 +46,13 @@ Rôle     : Admin (accès complet)
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 > *Screenshots à venir — voir la [vidéo démo](https://vimeo.com/voltix-demo)*
 
 ---
 
-## ✨ Modules
+## Modules
 
 | Module | Fonctionnalités |
 |--------|----------------|
@@ -67,7 +67,7 @@ Rôle     : Admin (accès complet)
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 Voir [ARCHITECTURE.md](ARCHITECTURE.md) pour le schéma technique complet.
 
@@ -88,7 +88,7 @@ MySQL 8.0 (InnoDB)
 
 ---
 
-## 🐳 Déploiement
+## Déploiement
 
 Voltix est déployé via Docker avec isolation complète par client :
 
@@ -97,15 +97,15 @@ Voltix est déployé via Docker avec isolation complète par client :
 ./deploy_client.sh nom_client 5001 3001
 
 # Résultat automatique :
-# ✅ Container Docker isolé
-# ✅ Base MySQL dédiée
-# ✅ Nginx + SSL Let's Encrypt
+# Container Docker isolé
+# Base MySQL dédiée
+# Nginx + SSL Let's Encrypt
 # → https://voltix-nom_client.yezzatech.tn
 ```
 
 ---
 
-## 🔒 Sécurité
+## Sécurité
 
 - Authentification **JWT** (access + refresh tokens)
 - Mots de passe hashés avec **bcrypt** (coût 12)
@@ -115,7 +115,7 @@ Voltix est déployé via Docker avec isolation complète par client :
 
 ---
 
-## 💼 Licence & Contact
+## Licence & Contact
 
 Ce logiciel est la propriété exclusive de **Yezza Tech**.
 Le code source n'est pas distribué publiquement.
@@ -127,7 +127,7 @@ Pour toute demande :
 
 ---
 
-## 🔗 Autres projets Yezza Tech
+## Autres projets Yezza Tech
 
 | Projet | Description | Lien |
 |--------|-------------|------|
@@ -138,7 +138,7 @@ Pour toute demande :
 
 <div align="center">
 
-Développé par **[Nadhir Yezza](https://yezzatech.tn)** · Yezza Tech · Tunisie
+Développé par **[Nadhir Yezza](https://www.yezzatech.tn)** · Yezza Tech · Tunisie
 
 **Version 1.2.0** · Avril 2026
 
